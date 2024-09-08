@@ -1,0 +1,57 @@
+Iyaad Luqman K
+Chennai, Tamil Nadu, India
+iyaadluq@gmail.com
+linkedin.com/in/iyaad-luqman-k-261a29229
+Summary
+Self-taught and passionate Cyber Security Enthusiast. Skilled in Ethical Hacking, Linux, Red Teaming, Information
+Security, Web Application and Network Security. Always in pursuit of learning more and more. I have done
+Various Courses on programming as well as on Offensive Penetration testing. In my free time, I hunt for bugs, root
+boxes on THM & HTB. My natural curiosity for computers is what drove me towards computer science.
+Experience
+UGC Author
+OffSec
+Mar 2022 - Present (1 year 11 months)
+Submitted 14 approved machines to Offensive Security's UGC program for students to train their
+cybersecurity and pentesting skills! This includes building a working webserver hosting a web
+application with multiple intentional security issues and a custom designed privilege escalation vector
+for gaining root privileges for each machine.
+Founder
+EdZone
+Jul 2023 - Present (7 months)
+Founder and Developer of Edzone.in
+Hack the box
+Hack The Box
+Sep 2021 - Present (2 years 5 months)
+Rank: Hacker
+Personal Best: #431
+Try Hack Me
+TryHackMe
+Aug 2021 - Present (2 years 6 months)
+Bug Bounty Hunter
+Bugcrowd
+Aug 2021 - Present (2 years 6 months)
+Bug Bounty Hunter
+HackerOne
+Aug 2021 - Present (2 years 6 months)
+Iyaad Luqman K - page 1Education
+KCG College of Technology
+Bachelor of Engineering - BE, Computer Science
+Sep 2023 - Apr 2027
+Unity Public School - India
+Jun 2014 - Mar 2023
+Licenses & Certifications
+Practical Ethical Hacking - The Complete Course  - TCM Security
+UC-d915e16b-1ed6-4e67-8a85-311ebc6ef4a8
+Ethical Hacking for Beginners  - Udemy
+UC-88b4dc5f-08d9-42e8-ac7c-89a33208476a
+Wireshark: Packet Analysis and Ethical Hacking: Core Skills - Udemy
+UC-4db170c9-dc54-4a42-b973-ed217a5927c6
+Linux for Network Engineers: Practical Linux with GNS3  - Udemy
+UC-d66923ef-4bdf-423f-be3a-16681d243f81
+Python Network Programming for Network Engineers (Python 3)  - Udemy
+UC-32b1d08c-6f04-4269-9e2d-ff121c8a36fd
+Skills
+Flutter    •   Search Engine Optimization (SEO)    •   PHP    •   Communication    •   Vulnerability Management    •  
+Information Technology    •   Vulnerability Assessment    •   Malware Analysis    •   Red Teaming    •   Cyber Threat
+Intelligence (CTI)
+Iyaad Luqman K - page 2
